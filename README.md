@@ -1,4 +1,3 @@
-![alt text](https://raw.githubusercontent.com/rzashakeri/rzashakeri/main/intro.gif))
 - 👋 Hi, I’m @tekintopuz
 - 👀 I’m interested in fullstack web developing
 - 🌱 I’m currently learning lots of pl and new things
